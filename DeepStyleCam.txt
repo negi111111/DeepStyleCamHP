@@ -1,1 +1,6 @@
-@inproceedings{FoodChangeLens2018, title={FoodChangeLens:CNN-based Food Transformation on HoloLens}, author={Shu Naritomi, Ryosuke Tanno, Takumi Ege and Keiji Yanai}, booktitle={In Proc. of International Workshop on Interface and Experience Design with AI for VR/AR (DAIVAR), year={2018} }
+@InProceedings{tann17,
+  author="Tanno, R. and Yanai, K.",
+  title="DeepStyleCam: A Real-time Style Transfer App on iOS",
+  booktitle="Proc. of International MultiMedia Modeing Conference (MMM)",
+  year="2017"
+}
